@@ -1,5 +1,5 @@
 # Marvel & DC boot animation
-Changes your boring stock boot animation to a spectacular new one. :D
+Changes your boring stock boot animation to a spectacular new one :D
 
 Credits go to [Christian Tailor](http://www.christiantailor.co.uk/?portfolio=marvel-dc-character-loop) for creating his awesome animation. <3
 
