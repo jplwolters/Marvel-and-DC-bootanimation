@@ -1,11 +1,17 @@
-# Magisk Module Template
+# Marvel & DC boot animation
+Changes your boring stock boot animation to a spectacular new one. :D
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
+Credits go to [Christian Tailor](http://www.christiantailor.co.uk/?portfolio=marvel-dc-character-loop) for creating his awesome animation. <3
 
-### README.md
+[A preview (GIF) of the boot animation can be found here](http://www.christiantailor.co.uk/wp-content/uploads/ComicCharcters480.gif)
 
-This `README.md` can be shown in Magisk Manager. Place any information/changelog/notes you like.
+## Links
+* [Magisk forum](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [Magisk manager app](https://play.google.com/store/apps/details?id=com.topjohnwu.magisk)
+* [Bug report](https://github.com/Magisk-Modules-Repo/Marvel-and-DC-boot-animation/issues/new)
+* [Github](https://github.com/Magisk-Modules-Repo/Marvel-and-DC-boot-animation)
+* [Donate](http://paypal.me/jeanpierrewolters/5)
 
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-You can edit your `README.md` within Github's online editor, it also has an preview button! Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for markdown syntaxes, it's super easy!
+## Change Log 
+#### version 1
+* Initial release
